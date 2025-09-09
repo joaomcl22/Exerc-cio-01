@@ -27,3 +27,4 @@ thread2.join()  # Espera thread2 terminar
 
 # Após ambas as threads terminarem, o programa chega ao fim aqui
 (">>> Programa finalizado. Ambas as threads concluíram sua execução.")
+
